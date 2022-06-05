@@ -196,7 +196,7 @@
 }
 
 .smart_top {
-	background-image: url("../img/mask_group.png");
+	background-image: url("./img/mask_group.png");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100%;
@@ -212,7 +212,7 @@
 }
 
 .app_mobile_left {
-	background-image: url("../img/phone_app.png");
+	background-image: url("./img/phone_app.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -227,7 +227,7 @@
 }
 
 .app_car_right {
-	background-image: url("../img/car_app.png");
+	background-image: url("./img/car_app.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 100%;

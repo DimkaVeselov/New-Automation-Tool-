@@ -33,7 +33,7 @@
 }
 
 .header_content {
-	background-image: url("/img/header_page2_bg.png");
+	background-image: url("./img/header_page2_bg.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 250px;
